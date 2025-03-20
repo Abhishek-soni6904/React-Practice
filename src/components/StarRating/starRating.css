@@ -1,0 +1,12 @@
+#StarRating{
+    border-bottom:2rem solid black ;
+    margin-bottom: 2rem;
+}
+.active{
+    color: #ffd700;
+    font-size: 2rem;
+}
+.inActive{
+    color: #000;
+    font-size: 2rem;
+}

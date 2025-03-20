@@ -1,0 +1,28 @@
+
+#accordion {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  width: 500px;
+  padding-bottom:2rem ;
+}
+#accordion h2{
+font-size: 2rem;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+.title::after{
+content: "+";
+font-size: 2rem;
+}
+.item{
+background-color: rgb(255, 166, 0);
+width: 100%;
+padding: 10px;
+}

@@ -1,0 +1,27 @@
+#ScrollIndicatorContainer {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: fit-content;
+    background-color: #ddd;
+
+}
+#ScrollIndicatorContainer h2{
+    margin: 0;
+    font-size: 1rem;
+}
+.scrollBar {
+    width: 100%;
+    height: 10px;
+}
+
+.scrollIndicator {
+    height: 10px;
+    background-color: #fc6900;
+    width: 0%;
+    transition: width 0.2s ease-out;
+}
+.ScrollIndicatorData{
+    border-bottom:2rem solid black ;
+}
