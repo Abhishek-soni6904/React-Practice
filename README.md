@@ -32,7 +32,7 @@ This repository contains various reusable UI components and mini-projects built 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Abhishek-soni6904/React-Projects.git
+git clone https://github.com/Abhishek-soni6904/React-Practice.git
 cd React-Projects
 ```
 
